@@ -1,6 +1,7 @@
 body
 {
+    background-color: black;
     text-align: left;
-    font-family: 'Franklin Gothic Medium';
-    color: rgba(100, 13, 13, 0.705);
+    font-family: Helvetica;
+    color: rgba(216, 18, 18, 0.884);
 }
